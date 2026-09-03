@@ -1,6 +1,6 @@
-Yes — I’d add a **Results / Key Findings** section, but I would avoid inventing numbers until you’ve actually run the queries. Your previous cleaning repository clearly positions the cleaned dataset as the input for further EDA, so linking the two projects is a good portfolio flow. ([GitHub][1])
 
-Here is the updated README you can paste into your **EDA repository**:
+
+
 
 # 📊 SQL Exploratory Data Analysis — Layoffs
 
